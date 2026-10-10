@@ -17,7 +17,7 @@ namespace DynamicSavedSlotNames
 
 		internal const string Description = "A resonite mod that allows the name of saved slots that are changed using the `OnSaving` Protoflux node to persist to the inventory rather than using their old name.";
 
-		internal const string VersionConstant = "1.0.0";
+		internal const string VersionConstant = "1.0.1";
 
 		public override string Name => NameConstant;
 
