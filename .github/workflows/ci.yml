@@ -88,6 +88,6 @@ jobs:
           name: ${{ steps.find_file.outputs.filename }} v${{  steps.get_version.outputs.version }}
           files: |
             ./publish/${{ steps.find_file.outputs.filename }}.dll
-          body_path: RELEASE_NOTES.md
+          body_path: CHANGELOG.md
           target_commitish: ${{ github.event.head_commit.id }}
           make_latest: true
