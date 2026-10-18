@@ -17,5 +17,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/2.0.0/),
 
 - Initial release. (@Cyberboss)
 
-[1.0.1]: https://github.com/oCyberboss/DynamicSavedSlotNames/compare/v1.0.0...v1.0.1
+[1.0.1]: https://github.com/Cyberboss/DynamicSavedSlotNames/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/Cyberboss/DynamicSavedSlotNames/tree/v1.0.0
